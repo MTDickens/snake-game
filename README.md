@@ -24,6 +24,7 @@ Test results (averaged over 1000 episodes):
 Requirements: Python 3.5+ (64-bit) with [Tkinter][doc-tkinter] installed.
 
 ```
+apt install python3-tk
 pip install -r requirements.txt
 python run.py [-h]
 ```
